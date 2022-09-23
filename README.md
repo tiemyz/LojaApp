@@ -1,2 +1,2 @@
 # LojaApp
-meu app 
+app.
